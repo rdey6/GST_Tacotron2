@@ -24,6 +24,8 @@ from fp16_optimizer import FP16_Optimizer
 # from distributed import apply_gradient_allreduce
 from loss_function import Tacotron2Loss
 from logger import Tacotron2Logger
+from text import cmudict
+from text.symbols import symbols as our_symbols
 
 
 def batchnorm_to_float(module):
@@ -104,6 +106,33 @@ def initialize_from_nvidia(model, pretrained_path):
             and weight.shape == model_weights[name].shape
         ):
             compatible_weights[name] = weight
+
+    # Transfer NVIDIA embeddings by symbol identity, not row index.
+    # nvidia_symbols must be loaded from NVIDIA's text/symbols.py.
+    from text.symbols import symbols as our_symbols
+
+    nvidia_embedding = pretrained_weights["embedding.weight"]
+    our_embedding = model_weights["embedding.weight"].clone()
+
+    # NVIDIA Tacotron2 symbol ordering
+    nvidia_symbols = (
+        ["_"]
+        + list("-")
+        + list("!'(),.:;? ")
+        + list("ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz")
+        + ["@" + s for s in cmudict.valid_symbols]
+    )
+
+    nvidia_symbol_to_id = {
+        symbol: i for i, symbol in enumerate(nvidia_symbols)
+    }
+
+    for our_id, symbol in enumerate(our_symbols):
+        if symbol in nvidia_symbol_to_id:
+            nvidia_id = nvidia_symbol_to_id[symbol]
+            our_embedding[our_id] = nvidia_embedding[nvidia_id]
+
+    compatible_weights["embedding.weight"] = our_embedding
 
     result = model.load_state_dict(
         compatible_weights,
@@ -200,7 +229,8 @@ def validate(model, criterion, valset, iteration, batch_size, n_gpus, collate_fn
     if rank == 0:
         print("Validation loss {}: {:9f} ".format(iteration, val_loss))  # I changed this
         # print("GST scores of the validation set: {}".format(validation_gst_scores.shape))
-        logger.log_validation(reduced_val_loss, model, y, y_pred, validation_gst_scores, iteration)
+        #logger.log_validation(reduced_val_loss, model, y, y_pred, validation_gst_scores, iteration)
+        logger.log_validation(val_loss, model, y, y_pred, validation_gst_scores, iteration)
 
 
 # ------------------------------------------- MAIN TRAINING METHOD -------------------------------------------------- #
@@ -311,5 +341,5 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus, 
 
     # Save final model after final epoch
     checkpoint_path = os.path.join(output_directory, "checkpoint_latest")
-    save_checkpoint(model, optimizer, learning_rate, iteration, checkpoint_path)
-    print(f"Final checkpoint saved at iteration {iteration}")
+    save_checkpoint(model, optimizer, learning_rate, iteration - 1, checkpoint_path)
+    print(f"Final checkpoint saved at iteration {iteration - 1}")

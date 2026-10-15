@@ -1,0 +1,535 @@
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_1-15_0013.wav|He was a head shorter than his companion, of almost delicate physique.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_113-140_0119.wav|Jeanne was turning the bow shoreward.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_113-140_0121.wav|They ate dinner at the fifth, and rested for two hours.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_141_168_0165.wav|They are to attack your camp tomorrow night.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_16-28_0019.wav|I followed the line of the proposed railroad, looking for chances.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_16-28_0026.wav|It occurred to me that there would have to be an accounting.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_169-196_0170.wav|There was none of the joy of meeting in his face.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_169-196_0184.wav|Don't you see, I'm chewing this thing in two.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_169-196_0193.wav|It was edged with ice.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_196-224_0206.wav|He says he bought him of Jacques Le Beau.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_225-252_0241.wav|I think it's much nicer to quarrel.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_225-252_0245.wav|Out of his eighteen hundred, he laid aside sixteen hundred each year.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_225-252_0249.wav|All eyes, however, were staring at him in certitude of expectancy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_225-252_0252.wav|O'Brien had been a clean living young man with ideals.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_253-280_0261.wav|I have been doubly baptized.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_253-280_0263.wav|Joan looked triumphantly at Sheldon, who bowed.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_253-280_0265.wav|The discovery seemed to have been made on the spur of the moment.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_281-308_0294.wav|He had been foiled in his attempt to escape.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_281-308_0296.wav|Bassett was a fastidious man.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_281-308_0300.wav|From my earliest recollection my sleep was a period of terror.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_29-45_0033.wav|He unfolded a long typewritten letter, and handed it to Gregson.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_29-45_0034.wav|Men of Selden's stamp don't stop at women and children.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_29-45_0042.wav|How could he explain his possession of the sketch.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_46-56_0048.wav|He looked at the handkerchief more, closely.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_57-84_0079.wav|It was a large canoe.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_85-112_0087.wav|Philip bent lower, and stared into the face of the dead man.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_85-112_0102.wav|He will follow us soon.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_85-112_0104.wav|She was sleeping under his protection as sweetly as a child.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_1-28_0013.wav|He was a head shorter than his companion, of almost delicate physique.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_1-28_0019.wav|I followed the line of the proposed railroad, looking for chances.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_1-28_0026.wav|It occurred to me that there would have to be an accounting.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_113-140_0119.wav|Jeanne was turning the bow shoreward.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_113-140_0121.wav|They ate dinner at the fifth, and rested for two hours.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_169-196_0148.wav|Now these things had been struck dead within him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_169-196_0165.wav|They are to attack your camp tomorrow night.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_197-224_0206.wav|He says he bought him of Jacques Le Beau.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_225-252_0241.wav|I think it's much nicer to quarrel.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_225-252_0245.wav|Out of his eighteen hundred, he laid aside sixteen hundred each year.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_225-252_0249.wav|All eyes, however, were staring at him in certitude of expectancy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_225-252_0252.wav|O'Brien had been a clean living young man with ideals.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_253-280_0261.wav|I have been doubly baptized.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_253-280_0263.wav|Joan looked triumphantly at Sheldon, who bowed.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_253-280_0265.wav|The discovery seemed to have been made on the spur of the moment.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_281-308_0294.wav|He had been foiled in his attempt to escape.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_281-308_0296.wav|Bassett was a fastidious man.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_281-308_0300.wav|From my earliest recollection my sleep was a period of terror.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_29-56_0033.wav|He unfolded a long typewritten letter, and handed it to Gregson.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_29-56_0034.wav|Men of Selden's stamp don't stop at women and children.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_29-56_0042.wav|How could he explain his possession of the sketch.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_29-56_0048.wav|He looked at the handkerchief more, closely.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_309-336_0309.wav|White Leghorns, said Mrs Mortimer.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_309-336_0312.wav|It lived in perpetual apprehension of that quarter of the compass.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_57-84_0072.wav|But who was Eileen's double.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_57-84_0079.wav|It was a large canoe.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_85-112_0087.wav|Philip bent lower, and stared into the face of the dead man.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_85-112_0104.wav|She was sleeping under his protection as sweetly as a child.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_1-28_0013.wav|He was a head shorter than his companion, of almost delicate physique.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_1-28_0019.wav|I followed the line of the proposed railroad, looking for chances.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_1-28_0026.wav|It occurred to me that there would have to be an accounting.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_113-140_0119.wav|Jeanne was turning the bow shoreward.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_113-140_0121.wav|They ate dinner at the fifth, and rested for two hours.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_141-168_0148.wav|Now these things had been struck dead within him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_141-168_0165.wav|They are to attack your camp tomorrow night.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_169-196_0170.wav|There was none of the joy of meeting in his face.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_169-196_0184.wav|Don't you see, I'm chewing this thing in two.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_169-196_0193.wav|It was edged with ice.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_197-224_0206.wav|He says he bought him of Jacques Le Beau.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_225-252_0241.wav|I think it's much nicer to quarrel.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_225-252_0245.wav|Out of his eighteen hundred, he laid aside sixteen hundred each year.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_225-252_0249.wav|All eyes, however, were staring at him in certitude of expectancy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_225-252_0252.wav|O'Brien had been a clean living young man with ideals.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_253-280_0261.wav|I have been doubly baptized.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_253-280_0263.wav|Joan looked triumphantly at Sheldon, who bowed.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_253-280_0265.wav|The discovery seemed to have been made on the spur of the moment.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_281-308_0294.wav|He had been foiled in his attempt to escape.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_281-308_0296.wav|Bassett was a fastidious man.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_281-308_0300.wav|From my earliest recollection my sleep was a period of terror.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_29-56_0033.wav|He unfolded a long typewritten letter, and handed it to Gregson.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_29-56_0034.wav|Men of Selden's stamp don't stop at women and children.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_29-56_0042.wav|How could he explain his possession of the sketch.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_29-56_0048.wav|He looked at the handkerchief more, closely.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_309-336_0309.wav|White Leghorns, said Mrs Mortimer.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_309-336_0312.wav|It lived in perpetual apprehension of that quarter of the compass.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_57-84_0072.wav|But who was Eileen's double.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_57-84_0079.wav|It was a large canoe.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_85-112_0087.wav|Philip bent lower, and stared into the face of the dead man.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_85-112_0102.wav|He will follow us soon.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_85-112_0104.wav|She was sleeping under his protection as sweetly as a child.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/Neutral_1-28_0013.wav|He was a head shorter than his companion, of almost delicate physique.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/Neutral_1-28_0019.wav|I followed the line of the proposed railroad, looking for chances.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/Neutral_1-28_0026.wav|It occurred to me that there would have to be an accounting.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/Neutral_29-56_0033.wav|He unfolded a long typewritten letter, and handed it to Gregson.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/Neutral_29-56_0034.wav|Men of Selden's stamp don't stop at women and children.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/Neutral_29-56_0042.wav|How could he explain his possession of the sketch.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/Neutral_29-56_0048.wav|He looked at the handkerchief more, closely.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/Neutral_57-84_0072.wav|But who was Eileen's double.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/Neutral_57-84_0079.wav|It was a large canoe.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/Neutral_85-112_0087.wav|Philip bent lower, and stared into the face of the dead man.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/Neutral_85-112_0102.wav|He will follow us soon.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/Neutral_85-112_0104.wav|She was sleeping under his protection as sweetly as a child.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_113-140_0119.wav|Jeanne was turning the bow shoreward.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_113-140_0121.wav|They ate dinner at the fifth, and rested for two hours.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_141-168_0148.wav|Now these things had been struck dead within him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_141-168_0165.wav|They are to attack your camp tomorrow night.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_169-196_0170.wav|There was none of the joy of meeting in his face.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_169-196_0184.wav|Don't you see, I'm chewing this thing in two.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_169-196_0193.wav|It was edged with ice.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_197-224_0206.wav|He says he bought him of Jacques Le Beau.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_225-252_0241.wav|I think it's much nicer to quarrel.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_225-252_0245.wav|Out of his eighteen hundred, he laid aside sixteen hundred each year.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_225-252_0249.wav|All eyes, however, were staring at him in certitude of expectancy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_225-252_0252.wav|O'Brien had been a clean living young man with ideals.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_253-280_0261.wav|I have been doubly baptized.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_253-280_0263.wav|Joan looked triumphantly at Sheldon, who bowed.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_253-280_0265.wav|The discovery seemed to have been made on the spur of the moment.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_281-308_0294.wav|He had been foiled in his attempt to escape.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_281-308_0296.wav|Bassett was a fastidious man.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_281-308_0300.wav|From my earliest recollection my sleep was a period of terror.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_309-336_0309.wav|White Leghorns, said Mrs Mortimer.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_309-336_0312.wav|It lived in perpetual apprehension of that quarter of the compass.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_337-364_0339.wav|They obeyed him, and went here and there at his commands.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_337-364_0340.wav|It was like the beating of hoofs.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_337-364_0343.wav|You mean for this State, General, Alberta.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_337-364_0345.wav|She was trying to pass the apron string around him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_337-364_0356.wav|You don't catch me at any such foolishness.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_337-364_0360.wav|But he no longer cared quite so much for that form of diversion.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_1-28_0013.wav|He was a head shorter than his companion, of almost delicate physique.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_1-28_0019.wav|I followed the line of the proposed railroad, looking for chances.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_1-28_0026.wav|It occurred to me that there would have to be an accounting.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_113-136_0119.wav|Jeanne was turning the bow shoreward.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_113-136_0121.wav|They ate dinner at the fifth, and rested for two hours.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_225-252_0241.wav|I think it's much nicer to quarrel.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_225-252_0245.wav|Out of his eighteen hundred, he laid aside sixteen hundred each year.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_225-252_0249.wav|All eyes, however, were staring at him in certitude of expectancy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_225-252_0252.wav|O'Brien had been a clean living young man with ideals.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_29-56_0033.wav|He unfolded a long typewritten letter, and handed it to Gregson.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_29-56_0034.wav|Men of Selden's stamp don't stop at women and children.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_29-56_0042.wav|How could he explain his possession of the sketch.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_29-56_0048.wav|He looked at the handkerchief more, closely.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_309-336_0309.wav|White Leghorns, said Mrs Mortimer.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_309-336_0312.wav|It lived in perpetual apprehension of that quarter of the compass.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_449-476_0451.wav|I noticed blood spouting from Kerfoot's left hand.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_449-476_0465.wav|He'll never do a tap of work the whole Voyage.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_57-84_0072.wav|But who was Eileen's double.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_57-84_0079.wav|It was a large canoe.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_85-94_0087.wav|Philip bent lower, and stared into the face of the dead man.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_95-112_0102.wav|He will follow us soon.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_95-112_0104.wav|She was sleeping under his protection as sweetly as a child.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_1-28_0013.wav|He was a head shorter than his companion, of almost delicate physique.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_1-28_0019.wav|I followed the line of the proposed railroad, looking for chances.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_1-28_0026.wav|It occurred to me that there would have to be an accounting.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_113-140_0119.wav|Jeanne was turning the bow shoreward.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_113-140_0121.wav|They ate dinner at the fifth, and rested for two hours.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_141-168_0148.wav|Now these things had been struck dead within him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_141-168_0165.wav|They are to attack your camp tomorrow night.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_169-196_0170.wav|There was none of the joy of meeting in his face.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_169-196_0184.wav|Don't you see, I'm chewing this thing in two.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_169-196_0193.wav|It was edged with ice.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_197-224_0206.wav|He says he bought him of Jacques Le Beau.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_225-252_0241.wav|I think it's much nicer to quarrel.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_225-252_0245.wav|Out of his eighteen hundred, he laid aside sixteen hundred each year.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_225-252_0249.wav|All eyes, however, were staring at him in certitude of expectancy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_225-252_0252.wav|O'Brien had been a clean living young man with ideals.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_253-280_0261.wav|I have been doubly baptized.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_253-280_0263.wav|Joan looked triumphantly at Sheldon, who bowed.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_253-280_0265.wav|The discovery seemed to have been made on the spur of the moment.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_281-308_0294.wav|He had been foiled in his attempt to escape.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_281-308_0296.wav|Bassett was a fastidious man.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_281-308_0300.wav|From my earliest recollection my sleep was a period of terror.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_29-56_0033.wav|He unfolded a long typewritten letter, and handed it to Gregson.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_29-56_0034.wav|Men of Selden's stamp don't stop at women and children.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_29-56_0042.wav|How could he explain his possession of the sketch.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_29-56_0048.wav|He looked at the handkerchief more, closely.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_309-336_0309.wav|White Leghorns, said Mrs Mortimer.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_309-336_0312.wav|It lived in perpetual apprehension of that quarter of the compass.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_337-364_0339.wav|They obeyed him, and went here and there at his commands.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_337-364_0340.wav|It was like the beating of hoofs.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_337-364_0343.wav|You mean for this State, General, Alberta.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_337-364_0345.wav|She was trying to pass the apron string around him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_337-364_0356.wav|You don't catch me at any such foolishness.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_337-364_0360.wav|But he no longer cared quite so much for that form of diversion.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_369-392_0371.wav|It issued a rate of forty two dollars a car on charcoal.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_369-392_0372.wav|He saw only the effect in a general, sketchy way.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_369-392_0388.wav|It was my idea to a tee.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_369-392_0392.wav|There is that magnificent Bob, eating his head off in the stable.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_393-420_0396.wav|A rising tide of fat had submerged them.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_393-420_0398.wav|In the car were Unwin and Harrison, while Jones sat with the chauffeur.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_393-420_0403.wav|His newborn cunning gave him poise and control.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_421-448_0421.wav|By golly, the boy wins.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_421-448_0424.wav|Obviously, it was a disease that could be contracted by contact.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_421-448_0441.wav|Violent life and athletic sports had never appealed to me.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_421-448_0447.wav|Ah, it is growing dark and darker.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_449-476_0451.wav|I noticed blood spouting from Kerfoot's left hand.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_449-476_0465.wav|He'll never do a tap of work the whole Voyage.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_477-504_0482.wav|And their chief virtue lies in that they will never wear out.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_477-504_0484.wav|No-sir-ee.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_477-504_0503.wav|His beady black eyes saw bargains where other men saw bankruptcy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_505-532_0516.wav|Also, there was awe in their faces.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_505-532_0520.wav|He was fond of quoting a fragment from a certain poem.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_57-84_0072.wav|But who was Eileen's double.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_57-84_0079.wav|It was a large canoe.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_141-168_0148.wav|Now these things had been struck dead within him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_141-168_0165.wav|They are to attack your camp tomorrow night.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_169-190_0170.wav|There was none of the joy of meeting in his face.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_169-190_0184.wav|Don't you see, I'm chewing this thing in two.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_253-280_0261.wav|I have been doubly baptized.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_253-280_0263.wav|Joan looked triumphantly at Sheldon, who bowed.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_253-280_0265.wav|The discovery seemed to have been made on the spur of the moment.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_29-56_0033.wav|He unfolded a long typewritten letter, and handed it to Gregson.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_29-56_0034.wav|Men of Selden's stamp don't stop at women and children.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_29-56_0042.wav|How could he explain his possession of the sketch.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_29-56_0048.wav|He looked at the handkerchief more, closely.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_393-420_0396.wav|A rising tide of fat had submerged them.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_393-420_0398.wav|In the car were Unwin and Harrison, while Jones sat with the chauffeur.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_393-420_0403.wav|His newborn cunning gave him poise and control.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_85-112_0087.wav|Philip bent lower, and stared into the face of the dead man.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_85-112_0102.wav|He will follow us soon.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_85-112_0104.wav|She was sleeping under his protection as sweetly as a child.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_1-28_0013.wav|He was a head shorter than his companion, of almost delicate physique.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_1-28_0019.wav|I followed the line of the proposed railroad, looking for chances.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_1-28_0026.wav|It occurred to me that there would have to be an accounting.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_113-140_0119.wav|Jeanne was turning the bow shoreward.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_113-140_0121.wav|They ate dinner at the fifth, and rested for two hours.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_141-168_0148.wav|Now these things had been struck dead within him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_141-168_0165.wav|They are to attack your camp tomorrow night.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_169-196_0170.wav|There was none of the joy of meeting in his face.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_169-196_0184.wav|Don't you see, I'm chewing this thing in two.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_169-196_0193.wav|It was edged with ice.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0206.wav|He says he bought him of Jacques Le Beau.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0241.wav|I think it's much nicer to quarrel.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0245.wav|Out of his eighteen hundred, he laid aside sixteen hundred each year.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0249.wav|All eyes, however, were staring at him in certitude of expectancy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0252.wav|O'Brien had been a clean living young man with ideals.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0261.wav|I have been doubly baptized.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0263.wav|Joan looked triumphantly at Sheldon, who bowed.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0265.wav|The discovery seemed to have been made on the spur of the moment.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0294.wav|He had been foiled in his attempt to escape.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0296.wav|Bassett was a fastidious man.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0300.wav|From my earliest recollection my sleep was a period of terror.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0309.wav|White Leghorns, said Mrs Mortimer.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0312.wav|It lived in perpetual apprehension of that quarter of the compass.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0339.wav|They obeyed him, and went here and there at his commands.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0340.wav|It was like the beating of hoofs.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0343.wav|You mean for this State, General, Alberta.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0345.wav|She was trying to pass the apron string around him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0356.wav|You don't catch me at any such foolishness.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0360.wav|But he no longer cared quite so much for that form of diversion.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_29-56_0033.wav|He unfolded a long typewritten letter, and handed it to Gregson.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_29-56_0034.wav|Men of Selden's stamp don't stop at women and children.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_29-56_0042.wav|How could he explain his possession of the sketch.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_29-56_0048.wav|He looked at the handkerchief more, closely.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_365-392_0371.wav|It issued a rate of forty two dollars a car on charcoal.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_365-392_0372.wav|He saw only the effect in a general, sketchy way.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_365-392_0388.wav|It was my idea to a tee.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_365-392_0392.wav|There is that magnificent Bob, eating his head off in the stable.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_421-448_0421.wav|By golly, the boy wins.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_421-448_0424.wav|Obviously, it was a disease that could be contracted by contact.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_421-448_0441.wav|Violent life and athletic sports had never appealed to me.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_421-448_0447.wav|Ah, it is growing dark and darker.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_57-84_0072.wav|But who was Eileen's double.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_57-84_0079.wav|It was a large canoe.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_85-112_0087.wav|Philip bent lower, and stared into the face of the dead man.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_85-112_0102.wav|He will follow us soon.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_85-112_0104.wav|She was sleeping under his protection as sweetly as a child.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_1-28_0013.wav|He was a head shorter than his companion, of almost delicate physique.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_1-28_0019.wav|I followed the line of the proposed railroad, looking for chances.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_1-28_0026.wav|It occurred to me that there would have to be an accounting.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_113-140_0119.wav|Jeanne was turning the bow shoreward.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_113-140_0121.wav|They ate dinner at the fifth, and rested for two hours.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_141_168_0148.wav|Now these things had been struck dead within him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_141_168_0165.wav|They are to attack your camp tomorrow night.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_169-196_0170.wav|There was none of the joy of meeting in his face.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_169-196_0184.wav|Don't you see, I'm chewing this thing in two.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_169-196_0193.wav|It was edged with ice.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_197-224_0206.wav|He says he bought him of Jacques Le Beau.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_225_252_0026.wav|It occurred to me that there would have to be an accounting.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_225_252_0241.wav|I think it's much nicer to quarrel.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_225_252_0245.wav|Out of his eighteen hundred, he laid aside sixteen hundred each year.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_225_252_0249.wav|All eyes, however, were staring at him in certitude of expectancy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_225_252_0252.wav|O'Brien had been a clean living young man with ideals.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_252-280_0261.wav|I have been doubly baptized.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_252-280_0263.wav|Joan looked triumphantly at Sheldon, who bowed.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_252-280_0265.wav|The discovery seemed to have been made on the spur of the moment.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_27-56_0033.wav|He unfolded a long typewritten letter, and handed it to Gregson.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_27-56_0034.wav|Men of Selden's stamp don't stop at women and children.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_27-56_0042.wav|How could he explain his possession of the sketch.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_27-56_0048.wav|He looked at the handkerchief more, closely.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_281-308_0294.wav|He had been foiled in his attempt to escape.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_281-308_0296.wav|Bassett was a fastidious man.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_281-308_0300.wav|From my earliest recollection my sleep was a period of terror.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_57-73_0072.wav|But who was Eileen's double.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_74_84_0079.wav|It was a large canoe.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_85-112_0087.wav|Philip bent lower, and stared into the face of the dead man.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_85-112_0102.wav|He will follow us soon.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_85-112_0104.wav|She was sleeping under his protection as sweetly as a child.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_1-28_0013.wav|He was a head shorter than his companion, of almost delicate physique.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_1-28_0019.wav|I followed the line of the proposed railroad, looking for chances.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_1-28_0026.wav|It occurred to me that there would have to be an accounting.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_113-140_0119.wav|Jeanne was turning the bow shoreward.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_113-140_0121.wav|They ate dinner at the fifth, and rested for two hours.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_141-168_0148.wav|Now these things had been struck dead within him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_141-168_0165.wav|They are to attack your camp tomorrow night.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_169-196_0170.wav|There was none of the joy of meeting in his face.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_169-196_0184.wav|Don't you see, I'm chewing this thing in two.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_169-196_0193.wav|It was edged with ice.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_197-224_0206.wav|He says he bought him of Jacques Le Beau.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_225-252_0241.wav|I think it's much nicer to quarrel.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_225-252_0245.wav|Out of his eighteen hundred, he laid aside sixteen hundred each year.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_225-252_0249.wav|All eyes, however, were staring at him in certitude of expectancy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_225-252_0252.wav|O'Brien had been a clean living young man with ideals.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_253-280_0261.wav|I have been doubly baptized.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_253-280_0263.wav|Joan looked triumphantly at Sheldon, who bowed.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_253-280_0265.wav|The discovery seemed to have been made on the spur of the moment.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_281-308_0294.wav|He had been foiled in his attempt to escape.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_281-308_0296.wav|Bassett was a fastidious man.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_281-308_0300.wav|From my earliest recollection my sleep was a period of terror.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_29-56_0034.wav|Men of Selden's stamp don't stop at women and children.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_29-56_0042.wav|How could he explain his possession of the sketch.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_29-56_0048.wav|He looked at the handkerchief more, closely.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_57-84_0072.wav|But who was Eileen's double.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_57-84_0079.wav|It was a large canoe.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_85-112_0087.wav|Philip bent lower, and stared into the face of the dead man.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_85-112_0102.wav|He will follow us soon.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_85-112_0104.wav|She was sleeping under his protection as sweetly as a child.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_1-28_0013.wav|He was a head shorter than his companion, of almost delicate physique.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_1-28_0019.wav|I followed the line of the proposed railroad, looking for chances.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_1-28_0026.wav|It occurred to me that there would have to be an accounting.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_113-140_0119.wav|Jeanne was turning the bow shoreward.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_113-140_0121.wav|They ate dinner at the fifth, and rested for two hours.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_141-168_0148.wav|Now these things had been struck dead within him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_141-168_0165.wav|They are to attack your camp tomorrow night.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_169-196_0170.wav|There was none of the joy of meeting in his face.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_169-196_0184.wav|Don't you see, I'm chewing this thing in two.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_169-196_0193.wav|It was edged with ice.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_197-224_0206.wav|He says he bought him of Jacques Le Beau.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_225-252_0241.wav|I think it's much nicer to quarrel.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_225-252_0245.wav|Out of his eighteen hundred, he laid aside sixteen hundred each year.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_225-252_0249.wav|All eyes, however, were staring at him in certitude of expectancy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_225-252_0252.wav|O'Brien had been a clean living young man with ideals.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_253-280_0261.wav|I have been doubly baptized.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_253-280_0263.wav|Joan looked triumphantly at Sheldon, who bowed.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_253-280_0265.wav|The discovery seemed to have been made on the spur of the moment.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_281-308_0294.wav|He had been foiled in his attempt to escape.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_281-308_0296.wav|Bassett was a fastidious man.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_281-308_0300.wav|From my earliest recollection my sleep was a period of terror.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_29-56_0033.wav|He unfolded a long typewritten letter, and handed it to Gregson.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_29-56_0034.wav|Men of Selden's stamp don't stop at women and children.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_29-56_0042.wav|How could he explain his possession of the sketch.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_29-56_0048.wav|He looked at the handkerchief more, closely.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_309-336_0309.wav|White Leghorns, said Mrs Mortimer.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_309-336_0312.wav|It lived in perpetual apprehension of that quarter of the compass.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_336-364_0339.wav|They obeyed him, and went here and there at his commands.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_336-364_0340.wav|It was like the beating of hoofs.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_336-364_0343.wav|You mean for this State, General, Alberta.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_336-364_0345.wav|She was trying to pass the apron string around him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_336-364_0356.wav|You don't catch me at any such foolishness.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_336-364_0360.wav|But he no longer cared quite so much for that form of diversion.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_367-392_0371.wav|It issued a rate of forty two dollars a car on charcoal.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_367-392_0372.wav|He saw only the effect in a general, sketchy way.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_367-392_0388.wav|It was my idea to a tee.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_367-392_0392.wav|There is that magnificent Bob, eating his head off in the stable.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_393-420_0396.wav|A rising tide of fat had submerged them.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_393-420_0398.wav|In the car were Unwin and Harrison, while Jones sat with the chauffeur.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_393-420_0403.wav|His newborn cunning gave him poise and control.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_421-448_0421.wav|By golly, the boy wins.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_421-448_0424.wav|Obviously, it was a disease that could be contracted by contact.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_421-448_0441.wav|Violent life and athletic sports had never appealed to me.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_421-448_0447.wav|Ah, it is growing dark and darker.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_449-476_0451.wav|I noticed blood spouting from Kerfoot's left hand.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_449-476_0465.wav|He'll never do a tap of work the whole Voyage.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_477-504_0482.wav|And their chief virtue lies in that they will never wear out.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_477-504_0484.wav|No-sir-ee.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_477-504_0503.wav|His beady black eyes saw bargains where other men saw bankruptcy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_57-84_0072.wav|But who was Eileen's double.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_57-84_0079.wav|It was a large canoe.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_85-112_0087.wav|Philip bent lower, and stared into the face of the dead man.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_85-112_0102.wav|He will follow us soon.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_85-112_0104.wav|She was sleeping under his protection as sweetly as a child.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_1-28_0013.wav|He was a head shorter than his companion, of almost delicate physique.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_1-28_0019.wav|I followed the line of the proposed railroad, looking for chances.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_1-28_0026.wav|It occurred to me that there would have to be an accounting.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_113-140_0119.wav|Jeanne was turning the bow shoreward.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_113-140_0121.wav|They ate dinner at the fifth, and rested for two hours.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_141-168_0148.wav|Now these things had been struck dead within him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_141-168_0165.wav|They are to attack your camp tomorrow night.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_169-196_0170.wav|There was none of the joy of meeting in his face.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_169-196_0184.wav|Don't you see, I'm chewing this thing in two.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_169-196_0193.wav|It was edged with ice.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_225_252_0241.wav|I think it's much nicer to quarrel.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_225_252_0245.wav|Out of his eighteen hundred, he laid aside sixteen hundred each year.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_225_252_0249.wav|All eyes, however, were staring at him in certitude of expectancy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_225_252_0252.wav|O'Brien had been a clean living young man with ideals.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_253-280_0261.wav|I have been doubly baptized.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_253-280_0263.wav|Joan looked triumphantly at Sheldon, who bowed.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_253-280_0265.wav|The discovery seemed to have been made on the spur of the moment.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_281-308_0294.wav|He had been foiled in his attempt to escape.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_281-308_0296.wav|Bassett was a fastidious man.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_281-308_0300.wav|From my earliest recollection my sleep was a period of terror.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_29-56_0033.wav|He unfolded a long typewritten letter, and handed it to Gregson.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_29-56_0034.wav|Men of Selden's stamp don't stop at women and children.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_29-56_0042.wav|How could he explain his possession of the sketch.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_29-56_0048.wav|He looked at the handkerchief more, closely.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_309-336_0309.wav|White Leghorns, said Mrs Mortimer.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_309-336_0312.wav|It lived in perpetual apprehension of that quarter of the compass.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_336-364_0339.wav|They obeyed him, and went here and there at his commands.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_336-364_0340.wav|It was like the beating of hoofs.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_336-364_0343.wav|You mean for this State, General, Alberta.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_336-364_0345.wav|She was trying to pass the apron string around him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_336-364_0356.wav|You don't catch me at any such foolishness.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_336-364_0360.wav|But he no longer cared quite so much for that form of diversion.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_367-392_0371.wav|It issued a rate of forty two dollars a car on charcoal.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_367-392_0372.wav|He saw only the effect in a general, sketchy way.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_367-392_0388.wav|It was my idea to a tee.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_367-392_0392.wav|There is that magnificent Bob, eating his head off in the stable.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_393-420_0396.wav|A rising tide of fat had submerged them.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_393-420_0398.wav|In the car were Unwin and Harrison, while Jones sat with the chauffeur.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_393-420_0403.wav|His newborn cunning gave him poise and control.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_421-448_0421.wav|By golly, the boy wins.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_421-448_0424.wav|Obviously, it was a disease that could be contracted by contact.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_421-448_0441.wav|Violent life and athletic sports had never appealed to me.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_421-448_0447.wav|Ah, it is growing dark and darker.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_477-504_0482.wav|And their chief virtue lies in that they will never wear out.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_477-504_0484.wav|No-sir-ee.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_477-504_0503.wav|His beady black eyes saw bargains where other men saw bankruptcy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_57-84_0072.wav|But who was Eileen's double.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_57-84_0079.wav|It was a large canoe.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_85-112_0087.wav|Philip bent lower, and stared into the face of the dead man.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_85-112_0102.wav|He will follow us soon.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_85-112_0104.wav|She was sleeping under his protection as sweetly as a child.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_1-28_0013.wav|He was a head shorter than his companion, of almost delicate physique.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_1-28_0019.wav|I followed the line of the proposed railroad, looking for chances.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_1-28_0026.wav|It occurred to me that there would have to be an accounting.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_113-140_0119.wav|Jeanne was turning the bow shoreward.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_113-140_0121.wav|They ate dinner at the fifth, and rested for two hours.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_141-168_0148.wav|Now these things had been struck dead within him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_141-168_0165.wav|They are to attack your camp tomorrow night.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_169_196_0170.wav|There was none of the joy of meeting in his face.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_169_196_0184.wav|Don't you see, I'm chewing this thing in two.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_169_196_0193.wav|It was edged with ice.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_197-224_0206.wav|He says he bought him of Jacques Le Beau.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_225-252_0241.wav|I think it's much nicer to quarrel.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_225-252_0245.wav|Out of his eighteen hundred, he laid aside sixteen hundred each year.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_225-252_0249.wav|All eyes, however, were staring at him in certitude of expectancy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_225-252_0252.wav|O'Brien had been a clean living young man with ideals.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_29-56_0033.wav|He unfolded a long typewritten letter, and handed it to Gregson.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_29-56_0034.wav|Men of Selden's stamp don't stop at women and children.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_29-56_0042.wav|How could he explain his possession of the sketch.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_29-56_0048.wav|He looked at the handkerchief more, closely.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_57-84_0072.wav|But who was Eileen's double.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_57-84_0079.wav|It was a large canoe.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_85-112_0087.wav|Philip bent lower, and stared into the face of the dead man.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_85-112_0102.wav|He will follow us soon.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_85-112_0104.wav|She was sleeping under his protection as sweetly as a child.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_253-280_0261.wav|I have been doubly baptized.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_253-280_0265.wav|The discovery seemed to have been made on the spur of the moment.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_281-308_0294.wav|He had been foiled in his attempt to escape.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_281-308_0296.wav|Bassett was a fastidious man.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_281-308_0300.wav|From my earliest recollection my sleep was a period of terror.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_309-336_0309.wav|White Leghorns, said Mrs Mortimer.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_309-336_0312.wav|It lived in perpetual apprehension of that quarter of the compass.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_336-364_0339.wav|They obeyed him, and went here and there at his commands.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_336-364_0340.wav|It was like the beating of hoofs.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_336-364_0343.wav|You mean for this State, General, Alberta.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_336-364_0345.wav|She was trying to pass the apron string around him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_336-364_0356.wav|You don't catch me at any such foolishness.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_336-364_0360.wav|But he no longer cared quite so much for that form of diversion.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_367-392_0371.wav|It issued a rate of forty two dollars a car on charcoal.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_367-392_0372.wav|He saw only the effect in a general, sketchy way.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_367-392_0388.wav|It was my idea to a tee.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_367-392_0392.wav|There is that magnificent Bob, eating his head off in the stable.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_393-420_0396.wav|A rising tide of fat had submerged them.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_393-420_0398.wav|In the car were Unwin and Harrison, while Jones sat with the chauffeur.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_393-420_0403.wav|His newborn cunning gave him poise and control.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_421-448_0421.wav|By golly, the boy wins.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_421-448_0424.wav|Obviously, it was a disease that could be contracted by contact.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_421-448_0441.wav|Violent life and athletic sports had never appealed to me.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_421-448_0447.wav|Ah, it is growing dark and darker.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_449-476_0451.wav|I noticed blood spouting from Kerfoot's left hand.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_449-476_0465.wav|He'll never do a tap of work the whole Voyage.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_477-504_0482.wav|And their chief virtue lies in that they will never wear out.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_477-504_0484.wav|No-sir-ee.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_477-504_0503.wav|His beady black eyes saw bargains where other men saw bankruptcy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_1-28_0013.wav|He was a head shorter than his companion, of almost delicate physique.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_1-28_0019.wav|I followed the line of the proposed railroad, looking for chances.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_113-140_0119.wav|Jeanne was turning the bow shoreward.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_113-140_0121.wav|They ate dinner at the fifth, and rested for two hours.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_141-168_0148.wav|Now these things had been struck dead within him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_141-168_0165.wav|They are to attack your camp tomorrow night.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_169-196_0170.wav|There was none of the joy of meeting in his face.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_169-196_0184.wav|Don't you see, I'm chewing this thing in two.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_169-196_0193.wav|It was edged with ice.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_197_224_0206.wav|He says he bought him of Jacques Le Beau.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_225_252_0241.wav|I think it's much nicer to quarrel.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_225_252_0245.wav|Out of his eighteen hundred, he laid aside sixteen hundred each year.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_225_252_0249.wav|All eyes, however, were staring at him in certitude of expectancy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_225_252_0252.wav|O'Brien had been a clean living young man with ideals.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_253-280_0261.wav|I have been doubly baptized.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_253-280_0263.wav|Joan looked triumphantly at Sheldon, who bowed.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_253-280_0265.wav|The discovery seemed to have been made on the spur of the moment.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_281-308_0294.wav|He had been foiled in his attempt to escape.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_281-308_0296.wav|Bassett was a fastidious man.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_281-308_0300.wav|From my earliest recollection my sleep was a period of terror.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_29-56_0033.wav|He unfolded a long typewritten letter, and handed it to Gregson.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_29-56_0034.wav|Men of Selden's stamp don't stop at women and children.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_29-56_0042.wav|How could he explain his possession of the sketch.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_29-56_0048.wav|He looked at the handkerchief more, closely.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_309-336_0309.wav|White Leghorns, said Mrs Mortimer.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_309-336_0312.wav|It lived in perpetual apprehension of that quarter of the compass.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_336-364_0339.wav|They obeyed him, and went here and there at his commands.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_336-364_0340.wav|It was like the beating of hoofs.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_336-364_0343.wav|You mean for this State, General, Alberta.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_336-364_0345.wav|She was trying to pass the apron string around him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_336-364_0356.wav|You don't catch me at any such foolishness.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_336-364_0360.wav|But he no longer cared quite so much for that form of diversion.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_367-392_0371.wav|It issued a rate of forty two dollars a car on charcoal.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_367-392_0372.wav|He saw only the effect in a general, sketchy way.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_367-392_0388.wav|It was my idea to a tee.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_367-392_0392.wav|There is that magnificent Bob, eating his head off in the stable.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_393-420_0396.wav|A rising tide of fat had submerged them.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_393-420_0398.wav|In the car were Unwin and Harrison, while Jones sat with the chauffeur.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_393-420_0403.wav|His newborn cunning gave him poise and control.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_421-448_0421.wav|By golly, the boy wins.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_421-448_0424.wav|Obviously, it was a disease that could be contracted by contact.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_421-448_0441.wav|Violent life and athletic sports had never appealed to me.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_421-448_0447.wav|Ah, it is growing dark and darker.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_449-476_0451.wav|I noticed blood spouting from Kerfoot's left hand.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_449-476_0465.wav|He'll never do a tap of work the whole Voyage.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_477-504_0482.wav|And their chief virtue lies in that they will never wear out.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_477-504_0484.wav|No-sir-ee.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_477-504_0503.wav|His beady black eyes saw bargains where other men saw bankruptcy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_57-84_0072.wav|But who was Eileen's double.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_57-84_0079.wav|It was a large canoe.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_85-112_0087.wav|Philip bent lower, and stared into the face of the dead man.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_85-112_0102.wav|He will follow us soon.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_85-112_0104.wav|She was sleeping under his protection as sweetly as a child.

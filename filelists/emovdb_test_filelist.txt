@@ -1,0 +1,549 @@
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_1-15_0009.wav|He turned sharply, and faced Gregson across the table.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_113-140_0128.wav|This one hope was destroyed as quickly as it was born.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_113-140_0130.wav|She was his now, forever.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_141_168_0141.wav|It seems like a strange pointing of the hand of God.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_141_168_0163.wav|Philip made no effort to follow.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_16-28_0017.wav|From that moment his friendship for Belize turns to hatred and jealousy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_16-28_0022.wav|Hardly were our plans made public before we were met by powerful opposition.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_16-28_0023.wav|A combination of Canadian capital quickly organized and petitioned for the same privileges.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_16-28_0024.wav|It was my reports from the north which chiefly induced people to buy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_169-196_0171.wav|And when you come back in a few days, bring Eileen.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_169-196_0188.wav|Two gigantic owls were tearing at the carcass.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_196-224_0204.wav|The wolf-dog thrust his gaunt muzzle toward him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_196-224_0205.wav|From now on we're pals.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_196-224_0217.wav|Oppressive as the heat had been, it was now even more oppressive.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_196-224_0221.wav|I don't know why you're here at all.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_196-224_0224.wav|She nodded, and her eyes grew soft and moist.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_225-252_0226.wav|That came before my A B C's.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_225-252_0239.wav|He cried in such genuine dismay that she broke into hearty laughter.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_253-280_0257.wav|They are coming ashore, whoever they are.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_253-280_0260.wav|Nobody knew his history, they of the Junta least of all.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_253-280_0279.wav|She said with chattering teeth.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_281-308_0281.wav|I do not blame you for anything; remember that.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_281-308_0283.wav|The woman in you is only incidental, accidental, and irrelevant.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_281-308_0308.wav|His infernal chattering worries me even now as I think of it.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_29-45_0037.wav|I was the only one who remained sitting.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_29-45_0040.wav|I suppose you wonder why she is coming up here.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_29-45_0043.wav|It seemed nearer to him since he had seen and talked with Gregson.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_57-84_0068.wav|In a flash Philip followed its direction.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_57-84_0070.wav|He would first hunt up Gregson and begin his work there.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_57-84_0082.wav|His face was streaming with blood.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_85-112_0085.wav|A trickle of fresh blood ran over his face.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_85-112_0096.wav|Perhaps she had already met her fate a little deeper in the forest.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Amused/amused_85-112_0105.wav|Only, it is so wonderful, so almost impossible to believe.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_1-28_0008.wav|Gad, your letter came just in time.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_1-28_0009.wav|He turned sharply, and faced Gregson across the table.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_1-28_0017.wav|From that moment his friendship for Belize turns to hatred and jealousy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_1-28_0022.wav|Hardly were our plans made public before we were met by powerful opposition.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_1-28_0023.wav|A combination of Canadian capital quickly organized and petitioned for the same privileges.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_1-28_0024.wav|It was my reports from the north which chiefly induced people to buy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_113-140_0128.wav|This one hope was destroyed as quickly as it was born.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_113-140_0130.wav|She was his now, forever.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_169-196_0141.wav|It seems like a strange pointing of the hand of God.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_169-196_0153.wav|MacDougall tapped his forehead suspiciously with a stubby forefinger.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_169-196_0157.wav|He had worshiped her, as Dante might have worshiped Beatrice.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_169-196_0163.wav|Philip made no effort to follow.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_197-224_0024.wav|It was my reports from the north which chiefly induced people to buy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_197-224_0204.wav|The wolf-dog thrust his gaunt muzzle toward him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_197-224_0205.wav|From now on we're pals.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_197-224_0217.wav|Oppressive as the heat had been, it was now even more oppressive.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_197-224_0221.wav|I don't know why you're here at all.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_225-252_0226.wav|That came before my A B C's.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_225-252_0239.wav|He cried in such genuine dismay that she broke into hearty laughter.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_253-280_0257.wav|They are coming ashore, whoever they are.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_253-280_0260.wav|Nobody knew his history, they of the Junta least of all.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_281-308_0281.wav|I do not blame you for anything; remember that.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_281-308_0283.wav|The woman in you is only incidental, accidental, and irrelevant.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_281-308_0308.wav|His infernal chattering worries me even now as I think of it.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_29-56_0037.wav|I was the only one who remained sitting.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_29-56_0040.wav|I suppose you wonder why she is coming up here.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_29-56_0043.wav|It seemed nearer to him since he had seen and talked with Gregson.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_309-336_0313.wav|Broken-Tooth yelled with fright and pain.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_57-84_0068.wav|In a flash Philip followed its direction.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_57-84_0070.wav|He would first hunt up Gregson and begin his work there.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_57-84_0082.wav|His face was streaming with blood.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_85-112_0085.wav|A trickle of fresh blood ran over his face.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_85-112_0096.wav|Perhaps she had already met her fate a little deeper in the forest.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Angry/anger_85-112_0105.wav|Only, it is so wonderful, so almost impossible to believe.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_1-28_0008.wav|Gad, your letter came just in time.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_1-28_0009.wav|He turned sharply, and faced Gregson across the table.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_1-28_0022.wav|Hardly were our plans made public before we were met by powerful opposition.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_1-28_0023.wav|A combination of Canadian capital quickly organized and petitioned for the same privileges.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_1-28_0024.wav|It was my reports from the north which chiefly induced people to buy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_113-140_0128.wav|This one hope was destroyed as quickly as it was born.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_113-140_0130.wav|She was his now, forever.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_141-168_0141.wav|It seems like a strange pointing of the hand of God.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_141-168_0153.wav|MacDougall tapped his forehead suspiciously with a stubby forefinger.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_141-168_0157.wav|He had worshiped her, as Dante might have worshiped Beatrice.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_141-168_0163.wav|Philip made no effort to follow.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_169-196_0171.wav|And when you come back in a few days, bring Eileen.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_169-196_0188.wav|Two gigantic owls were tearing at the carcass.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_197-224_0204.wav|The wolf-dog thrust his gaunt muzzle toward him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_197-224_0205.wav|From now on we're pals.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_197-224_0217.wav|Oppressive as the heat had been, it was now even more oppressive.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_197-224_0221.wav|I don't know why you're here at all.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_197-224_0224.wav|She nodded, and her eyes grew soft and moist.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_225-252_0226.wav|That came before my A B C's.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_225-252_0239.wav|He cried in such genuine dismay that she broke into hearty laughter.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_253-280_0257.wav|They are coming ashore, whoever they are.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_253-280_0260.wav|Nobody knew his history, they of the Junta least of all.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_253-280_0279.wav|She said with chattering teeth.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_281-308_0281.wav|I do not blame you for anything; remember that.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_281-308_0283.wav|The woman in you is only incidental, accidental, and irrelevant.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_281-308_0308.wav|His infernal chattering worries me even now as I think of it.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_29-56_0037.wav|I was the only one who remained sitting.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_29-56_0040.wav|I suppose you wonder why she is coming up here.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_29-56_0043.wav|It seemed nearer to him since he had seen and talked with Gregson.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_309-336_0313.wav|Broken-Tooth yelled with fright and pain.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_57-84_0068.wav|In a flash Philip followed its direction.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_57-84_0070.wav|He would first hunt up Gregson and begin his work there.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_57-84_0082.wav|His face was streaming with blood.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_85-112_0085.wav|A trickle of fresh blood ran over his face.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_85-112_0096.wav|Perhaps she had already met her fate a little deeper in the forest.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Disgusted/disgust_85-112_0105.wav|Only, it is so wonderful, so almost impossible to believe.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/Neutral_1-28_0008.wav|Gad, your letter came just in time.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/Neutral_1-28_0009.wav|He turned sharply, and faced Gregson across the table.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/Neutral_1-28_0017.wav|From that moment his friendship for Belize turns to hatred and jealousy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/Neutral_1-28_0022.wav|Hardly were our plans made public before we were met by powerful opposition.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/Neutral_1-28_0023.wav|A combination of Canadian capital quickly organized and petitioned for the same privileges.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/Neutral_1-28_0024.wav|It was my reports from the north which chiefly induced people to buy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/Neutral_29-56_0037.wav|I was the only one who remained sitting.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/Neutral_29-56_0040.wav|I suppose you wonder why she is coming up here.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/Neutral_29-56_0043.wav|It seemed nearer to him since he had seen and talked with Gregson.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/Neutral_57-84_0068.wav|In a flash Philip followed its direction.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/Neutral_57-84_0070.wav|He would first hunt up Gregson and begin his work there.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/Neutral_57-84_0082.wav|His face was streaming with blood.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/Neutral_85-112_0085.wav|A trickle of fresh blood ran over his face.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/Neutral_85-112_0096.wav|Perhaps she had already met her fate a little deeper in the forest.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/Neutral_85-112_0105.wav|Only, it is so wonderful, so almost impossible to believe.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_113-140_0128.wav|This one hope was destroyed as quickly as it was born.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_113-140_0130.wav|She was his now, forever.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_141-168_0141.wav|It seems like a strange pointing of the hand of God.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_141-168_0153.wav|MacDougall tapped his forehead suspiciously with a stubby forefinger.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_141-168_0157.wav|He had worshiped her, as Dante might have worshiped Beatrice.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_141-168_0163.wav|Philip made no effort to follow.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_169-196_0171.wav|And when you come back in a few days, bring Eileen.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_169-196_0188.wav|Two gigantic owls were tearing at the carcass.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_197-224_0204.wav|The wolf-dog thrust his gaunt muzzle toward him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_197-224_0205.wav|From now on we're pals.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_197-224_0217.wav|Oppressive as the heat had been, it was now even more oppressive.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_197-224_0221.wav|I don't know why you're here at all.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_197-224_0224.wav|She nodded, and her eyes grew soft and moist.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_225-252_0226.wav|That came before my A B C's.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_225-252_0239.wav|He cried in such genuine dismay that she broke into hearty laughter.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_253-280_0257.wav|They are coming ashore, whoever they are.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_253-280_0260.wav|Nobody knew his history, they of the Junta least of all.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_281-308_0281.wav|I do not blame you for anything; remember that.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_281-308_0283.wav|The woman in you is only incidental, accidental, and irrelevant.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_281-308_0308.wav|His infernal chattering worries me even now as I think of it.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_309-336_0313.wav|Broken-Tooth yelled with fright and pain.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/bea/Neutral/neutral_337-364_0351.wav|It was more like sugar.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_1-28_0008.wav|Gad, your letter came just in time.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_1-28_0009.wav|He turned sharply, and faced Gregson across the table.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_1-28_0017.wav|From that moment his friendship for Belize turns to hatred and jealousy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_1-28_0022.wav|Hardly were our plans made public before we were met by powerful opposition.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_1-28_0023.wav|A combination of Canadian capital quickly organized and petitioned for the same privileges.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_1-28_0024.wav|It was my reports from the north which chiefly induced people to buy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_113-136_0128.wav|This one hope was destroyed as quickly as it was born.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_113-136_0130.wav|She was his now, forever.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_225-252_0226.wav|That came before my A B C's.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_225-252_0239.wav|He cried in such genuine dismay that she broke into hearty laughter.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_29-56_0037.wav|I was the only one who remained sitting.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_29-56_0040.wav|I suppose you wonder why she is coming up here.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_29-56_0043.wav|It seemed nearer to him since he had seen and talked with Gregson.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_309-336_0313.wav|Broken-Tooth yelled with fright and pain.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_449-476_0461.wav|Ah, we were very close together in that moment.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_449-476_0475.wav|His outstretched arm dropped to his side, and he paused.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_57-84_0068.wav|In a flash Philip followed its direction.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_57-84_0070.wav|He would first hunt up Gregson and begin his work there.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_57-84_0082.wav|His face was streaming with blood.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_85-94_0085.wav|A trickle of fresh blood ran over his face.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_95-112_0096.wav|Perhaps she had already met her fate a little deeper in the forest.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Amused/amused_95-112_0105.wav|Only, it is so wonderful, so almost impossible to believe.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_1-28_0008.wav|Gad, your letter came just in time.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_1-28_0009.wav|He turned sharply, and faced Gregson across the table.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_1-28_0017.wav|From that moment his friendship for Belize turns to hatred and jealousy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_1-28_0022.wav|Hardly were our plans made public before we were met by powerful opposition.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_1-28_0023.wav|A combination of Canadian capital quickly organized and petitioned for the same privileges.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_1-28_0024.wav|It was my reports from the north which chiefly induced people to buy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_113-140_0128.wav|This one hope was destroyed as quickly as it was born.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_113-140_0130.wav|She was his now, forever.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_141-168_0141.wav|It seems like a strange pointing of the hand of God.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_141-168_0153.wav|MacDougall tapped his forehead suspiciously with a stubby forefinger.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_141-168_0157.wav|He had worshiped her, as Dante might have worshiped Beatrice.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_141-168_0163.wav|Philip made no effort to follow.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_169-196_0171.wav|And when you come back in a few days, bring Eileen.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_169-196_0188.wav|Two gigantic owls were tearing at the carcass.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_197-224_0204.wav|The wolf-dog thrust his gaunt muzzle toward him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_197-224_0205.wav|From now on we're pals.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_197-224_0217.wav|Oppressive as the heat had been, it was now even more oppressive.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_197-224_0221.wav|I don't know why you're here at all.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_197-224_0224.wav|She nodded, and her eyes grew soft and moist.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_225-252_0226.wav|That came before my A B C's.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_225-252_0239.wav|He cried in such genuine dismay that she broke into hearty laughter.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_253-280_0257.wav|They are coming ashore, whoever they are.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_253-280_0260.wav|Nobody knew his history, they of the Junta least of all.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_253-280_0279.wav|She said with chattering teeth.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_281-308_0281.wav|I do not blame you for anything; remember that.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_281-308_0283.wav|The woman in you is only incidental, accidental, and irrelevant.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_281-308_0308.wav|His infernal chattering worries me even now as I think of it.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_29-56_0037.wav|I was the only one who remained sitting.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_29-56_0040.wav|I suppose you wonder why she is coming up here.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_29-56_0043.wav|It seemed nearer to him since he had seen and talked with Gregson.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_309-336_0313.wav|Broken-Tooth yelled with fright and pain.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_337-364_0351.wav|It was more like sugar.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_369-392_0370.wav|He saw all men in the business game doing this.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_369-392_0374.wav|But life's worth more than cash, she argued.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_369-392_0387.wav|Bob, growing disgusted, turned back suddenly and attempted to pass Mab.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_393-420_0420.wav|When I came to I was waving my hat and murmuring ecstatically.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_421-448_0423.wav|McVeigh when he returns from a trip to Honolulu.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_421-448_0427.wav|Enters now the psychology of the situation.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_421-448_0433.wav|To her the bridge was tambo, which is the native for taboo.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_421-448_0440.wav|Yes, sir, I corrected.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_421-448_0446.wav|He deluged me, overwhelmed me with argument.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_449-476_0461.wav|Ah, we were very close together in that moment.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_449-476_0475.wav|His outstretched arm dropped to his side, and he paused.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_477-504_0480.wav|Tom Spink has a harpoon.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_477-504_0502.wav|Anything unusual or abnormal was sufficient to send a fellow to Molokai.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_505-532_0505.wav|We fished sharks on Niihau together.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_505-532_0512.wav|No, it is a palace, wherein there are many servants.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_505-532_0513.wav|We must give ourselves and not our money alone.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_57-84_0068.wav|In a flash Philip followed its direction.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_57-84_0070.wav|He would first hunt up Gregson and begin his work there.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Angry/anger_57-84_0082.wav|His face was streaming with blood.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_141-168_0141.wav|It seems like a strange pointing of the hand of God.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_141-168_0153.wav|MacDougall tapped his forehead suspiciously with a stubby forefinger.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_141-168_0157.wav|He had worshiped her, as Dante might have worshiped Beatrice.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_141-168_0163.wav|Philip made no effort to follow.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_169-190_0171.wav|And when you come back in a few days, bring Eileen.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_169-190_0188.wav|Two gigantic owls were tearing at the carcass.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_253-280_0257.wav|They are coming ashore, whoever they are.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_253-280_0260.wav|Nobody knew his history, they of the Junta least of all.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_253-280_0279.wav|She said with chattering teeth.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_29-56_0037.wav|I was the only one who remained sitting.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_29-56_0040.wav|I suppose you wonder why she is coming up here.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_29-56_0043.wav|It seemed nearer to him since he had seen and talked with Gregson.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_393-420_0420.wav|When I came to I was waving my hat and murmuring ecstatically.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_533-560_0549.wav|Do you know that we weigh every pound of coal we burn.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_533-560_0556.wav|Why, he's bought forty pounds of goods from you already.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_85-112_0085.wav|A trickle of fresh blood ran over his face.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_85-112_0096.wav|Perhaps she had already met her fate a little deeper in the forest.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Disgusted/disgust_85-112_0105.wav|Only, it is so wonderful, so almost impossible to believe.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_1-28_0008.wav|Gad, your letter came just in time.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_1-28_0009.wav|He turned sharply, and faced Gregson across the table.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_1-28_0017.wav|From that moment his friendship for Belize turns to hatred and jealousy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_1-28_0022.wav|Hardly were our plans made public before we were met by powerful opposition.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_1-28_0023.wav|A combination of Canadian capital quickly organized and petitioned for the same privileges.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_1-28_0024.wav|It was my reports from the north which chiefly induced people to buy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_113-140_0128.wav|This one hope was destroyed as quickly as it was born.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_113-140_0130.wav|She was his now, forever.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_141-168_0141.wav|It seems like a strange pointing of the hand of God.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_141-168_0153.wav|MacDougall tapped his forehead suspiciously with a stubby forefinger.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_141-168_0157.wav|He had worshiped her, as Dante might have worshiped Beatrice.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_141-168_0163.wav|Philip made no effort to follow.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_169-196_0171.wav|And when you come back in a few days, bring Eileen.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_169-196_0188.wav|Two gigantic owls were tearing at the carcass.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0204.wav|The wolf-dog thrust his gaunt muzzle toward him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0205.wav|From now on we're pals.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0217.wav|Oppressive as the heat had been, it was now even more oppressive.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0221.wav|I don't know why you're here at all.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0224.wav|She nodded, and her eyes grew soft and moist.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0226.wav|That came before my A B C's.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0239.wav|He cried in such genuine dismay that she broke into hearty laughter.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0257.wav|They are coming ashore, whoever they are.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0260.wav|Nobody knew his history, they of the Junta least of all.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0279.wav|She said with chattering teeth.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0281.wav|I do not blame you for anything; remember that.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0283.wav|The woman in you is only incidental, accidental, and irrelevant.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0308.wav|His infernal chattering worries me even now as I think of it.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0313.wav|Broken-Tooth yelled with fright and pain.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_197-364_0351.wav|It was more like sugar.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_29-56_0037.wav|I was the only one who remained sitting.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_29-56_0040.wav|I suppose you wonder why she is coming up here.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_29-56_0043.wav|It seemed nearer to him since he had seen and talked with Gregson.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_365-392_0370.wav|He saw all men in the business game doing this.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_365-392_0374.wav|But life's worth more than cash, she argued.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_365-392_0387.wav|Bob, growing disgusted, turned back suddenly and attempted to pass Mab.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_421-448_0423.wav|McVeigh when he returns from a trip to Honolulu.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_421-448_0427.wav|Enters now the psychology of the situation.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_421-448_0433.wav|To her the bridge was tambo, which is the native for taboo.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_421-448_0440.wav|Yes, sir, I corrected.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_421-448_0446.wav|He deluged me, overwhelmed me with argument.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_57-84_0068.wav|In a flash Philip followed its direction.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_57-84_0070.wav|He would first hunt up Gregson and begin his work there.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_57-84_0082.wav|His face was streaming with blood.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_85-112_0085.wav|A trickle of fresh blood ran over his face.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_85-112_0096.wav|Perhaps she had already met her fate a little deeper in the forest.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/jenie/Neutral/neutral_85-112_0105.wav|Only, it is so wonderful, so almost impossible to believe.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_1-28_0008.wav|Gad, your letter came just in time.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_1-28_0009.wav|He turned sharply, and faced Gregson across the table.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_1-28_0017.wav|From that moment his friendship for Belize turns to hatred and jealousy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_1-28_0022.wav|Hardly were our plans made public before we were met by powerful opposition.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_1-28_0023.wav|A combination of Canadian capital quickly organized and petitioned for the same privileges.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_1-28_0024.wav|It was my reports from the north which chiefly induced people to buy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_113-140_0128.wav|This one hope was destroyed as quickly as it was born.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_113-140_0130.wav|She was his now, forever.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_141_168_0141.wav|It seems like a strange pointing of the hand of God.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_141_168_0153.wav|MacDougall tapped his forehead suspiciously with a stubby forefinger.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_141_168_0157.wav|He had worshiped her, as Dante might have worshiped Beatrice.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_141_168_0163.wav|Philip made no effort to follow.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_169-196_0171.wav|And when you come back in a few days, bring Eileen.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_169-196_0188.wav|Two gigantic owls were tearing at the carcass.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_197-224_0023.wav|A combination of Canadian capital quickly organized and petitioned for the same privileges.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_197-224_0204.wav|The wolf-dog thrust his gaunt muzzle toward him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_197-224_0205.wav|From now on we're pals.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_197-224_0217.wav|Oppressive as the heat had been, it was now even more oppressive.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_197-224_0221.wav|I don't know why you're here at all.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_197-224_0224.wav|She nodded, and her eyes grew soft and moist.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_225_252_0239.wav|He cried in such genuine dismay that she broke into hearty laughter.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_252-280_0257.wav|They are coming ashore, whoever they are.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_252-280_0260.wav|Nobody knew his history, they of the Junta least of all.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_252-280_0279.wav|She said with chattering teeth.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_27-56_0037.wav|I was the only one who remained sitting.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_27-56_0040.wav|I suppose you wonder why she is coming up here.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_27-56_0043.wav|It seemed nearer to him since he had seen and talked with Gregson.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_281-308_0281.wav|I do not blame you for anything; remember that.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_281-308_0283.wav|The woman in you is only incidental, accidental, and irrelevant.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_281-308_0308.wav|His infernal chattering worries me even now as I think of it.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_57-73_0068.wav|In a flash Philip followed its direction.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_57-73_0070.wav|He would first hunt up Gregson and begin his work there.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_74_84_0082.wav|His face was streaming with blood.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_85-112_0085.wav|A trickle of fresh blood ran over his face.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_85-112_0096.wav|Perhaps she had already met her fate a little deeper in the forest.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Amused/amused_85-112_0105.wav|Only, it is so wonderful, so almost impossible to believe.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_1-28_0008.wav|Gad, your letter came just in time.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_1-28_0009.wav|He turned sharply, and faced Gregson across the table.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_1-28_0017.wav|From that moment his friendship for Belize turns to hatred and jealousy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_1-28_0022.wav|Hardly were our plans made public before we were met by powerful opposition.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_1-28_0023.wav|A combination of Canadian capital quickly organized and petitioned for the same privileges.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_1-28_0024.wav|It was my reports from the north which chiefly induced people to buy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_113-140_0128.wav|This one hope was destroyed as quickly as it was born.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_113-140_0130.wav|She was his now, forever.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_141-168_0141.wav|It seems like a strange pointing of the hand of God.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_141-168_0153.wav|MacDougall tapped his forehead suspiciously with a stubby forefinger.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_141-168_0157.wav|He had worshiped her, as Dante might have worshiped Beatrice.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_141-168_0163.wav|Philip made no effort to follow.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_169-196_0171.wav|And when you come back in a few days, bring Eileen.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_169-196_0188.wav|Two gigantic owls were tearing at the carcass.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_197-224_0204.wav|The wolf-dog thrust his gaunt muzzle toward him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_197-224_0205.wav|From now on we're pals.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_197-224_0217.wav|Oppressive as the heat had been, it was now even more oppressive.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_197-224_0221.wav|I don't know why you're here at all.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_197-224_0224.wav|She nodded, and her eyes grew soft and moist.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_225-252_0226.wav|That came before my A B C's.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_225-252_0239.wav|He cried in such genuine dismay that she broke into hearty laughter.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_253-280_0257.wav|They are coming ashore, whoever they are.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_253-280_0260.wav|Nobody knew his history, they of the Junta least of all.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_253-280_0279.wav|She said with chattering teeth.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_281-308_0281.wav|I do not blame you for anything; remember that.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_281-308_0283.wav|The woman in you is only incidental, accidental, and irrelevant.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_281-308_0308.wav|His infernal chattering worries me even now as I think of it.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_29-56_0037.wav|I was the only one who remained sitting.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_29-56_0040.wav|I suppose you wonder why she is coming up here.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_29-56_0043.wav|It seemed nearer to him since he had seen and talked with Gregson.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_57-84_0068.wav|In a flash Philip followed its direction.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_57-84_0070.wav|He would first hunt up Gregson and begin his work there.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_57-84_0082.wav|His face was streaming with blood.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_85-112_0085.wav|A trickle of fresh blood ran over his face.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_85-112_0096.wav|Perhaps she had already met her fate a little deeper in the forest.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/josh/Neutral/neutral_85-112_0105.wav|Only, it is so wonderful, so almost impossible to believe.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_1-28_0008.wav|Gad, your letter came just in time.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_1-28_0009.wav|He turned sharply, and faced Gregson across the table.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_1-28_0017.wav|From that moment his friendship for Belize turns to hatred and jealousy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_1-28_0022.wav|Hardly were our plans made public before we were met by powerful opposition.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_1-28_0023.wav|A combination of Canadian capital quickly organized and petitioned for the same privileges.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_1-28_0024.wav|It was my reports from the north which chiefly induced people to buy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_113-140_0128.wav|This one hope was destroyed as quickly as it was born.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_113-140_0130.wav|She was his now, forever.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_141-168_0141.wav|It seems like a strange pointing of the hand of God.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_141-168_0153.wav|MacDougall tapped his forehead suspiciously with a stubby forefinger.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_141-168_0157.wav|He had worshiped her, as Dante might have worshiped Beatrice.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_141-168_0163.wav|Philip made no effort to follow.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_169-196_0171.wav|And when you come back in a few days, bring Eileen.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_169-196_0188.wav|Two gigantic owls were tearing at the carcass.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_197-224_0204.wav|The wolf-dog thrust his gaunt muzzle toward him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_197-224_0205.wav|From now on we're pals.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_197-224_0217.wav|Oppressive as the heat had been, it was now even more oppressive.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_197-224_0221.wav|I don't know why you're here at all.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_197-224_0224.wav|She nodded, and her eyes grew soft and moist.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_225-252_0226.wav|That came before my A B C's.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_225-252_0239.wav|He cried in such genuine dismay that she broke into hearty laughter.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_253-280_0257.wav|They are coming ashore, whoever they are.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_253-280_0260.wav|Nobody knew his history, they of the Junta least of all.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_253-280_0279.wav|She said with chattering teeth.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_281-308_0281.wav|I do not blame you for anything; remember that.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_281-308_0283.wav|The woman in you is only incidental, accidental, and irrelevant.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_281-308_0308.wav|His infernal chattering worries me even now as I think of it.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_29-56_0037.wav|I was the only one who remained sitting.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_29-56_0040.wav|I suppose you wonder why she is coming up here.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_29-56_0043.wav|It seemed nearer to him since he had seen and talked with Gregson.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_309-336_0313.wav|Broken-Tooth yelled with fright and pain.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_336-364_0351.wav|It was more like sugar.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_367-392_0370.wav|He saw all men in the business game doing this.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_367-392_0374.wav|But life's worth more than cash, she argued.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_367-392_0387.wav|Bob, growing disgusted, turned back suddenly and attempted to pass Mab.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_393-420_0420.wav|When I came to I was waving my hat and murmuring ecstatically.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_421-448_0423.wav|McVeigh when he returns from a trip to Honolulu.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_421-448_0427.wav|Enters now the psychology of the situation.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_421-448_0433.wav|To her the bridge was tambo, which is the native for taboo.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_421-448_0440.wav|Yes, sir, I corrected.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_421-448_0446.wav|He deluged me, overwhelmed me with argument.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_449-476_0461.wav|Ah, we were very close together in that moment.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_449-476_0475.wav|His outstretched arm dropped to his side, and he paused.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_477-504_0480.wav|Tom Spink has a harpoon.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_477-504_0502.wav|Anything unusual or abnormal was sufficient to send a fellow to Molokai.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_57-84_0068.wav|In a flash Philip followed its direction.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_57-84_0070.wav|He would first hunt up Gregson and begin his work there.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_57-84_0082.wav|His face was streaming with blood.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_85-112_0085.wav|A trickle of fresh blood ran over his face.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_85-112_0096.wav|Perhaps she had already met her fate a little deeper in the forest.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Amused/amused_85-112_0105.wav|Only, it is so wonderful, so almost impossible to believe.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_1-28_0008.wav|Gad, your letter came just in time.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_1-28_0009.wav|He turned sharply, and faced Gregson across the table.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_1-28_0017.wav|From that moment his friendship for Belize turns to hatred and jealousy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_1-28_0022.wav|Hardly were our plans made public before we were met by powerful opposition.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_1-28_0023.wav|A combination of Canadian capital quickly organized and petitioned for the same privileges.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_1-28_0024.wav|It was my reports from the north which chiefly induced people to buy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_113-140_0128.wav|This one hope was destroyed as quickly as it was born.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_113-140_0130.wav|She was his now, forever.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_141-168_0141.wav|It seems like a strange pointing of the hand of God.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_141-168_0153.wav|MacDougall tapped his forehead suspiciously with a stubby forefinger.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_141-168_0157.wav|He had worshiped her, as Dante might have worshiped Beatrice.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_141-168_0163.wav|Philip made no effort to follow.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_169-196_0171.wav|And when you come back in a few days, bring Eileen.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_169-196_0188.wav|Two gigantic owls were tearing at the carcass.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_197-224_0204.wav|The wolf-dog thrust his gaunt muzzle toward him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_197-224_0205.wav|From now on we're pals.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_197-224_0217.wav|Oppressive as the heat had been, it was now even more oppressive.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_197-224_0221.wav|I don't know why you're here at all.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_197-224_0224.wav|She nodded, and her eyes grew soft and moist.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_225_252_0226.wav|That came before my A B C's.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_225_252_0239.wav|He cried in such genuine dismay that she broke into hearty laughter.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_253-280_0257.wav|They are coming ashore, whoever they are.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_253-280_0260.wav|Nobody knew his history, they of the Junta least of all.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_253-280_0279.wav|She said with chattering teeth.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_281-308_0281.wav|I do not blame you for anything; remember that.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_281-308_0283.wav|The woman in you is only incidental, accidental, and irrelevant.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_281-308_0308.wav|His infernal chattering worries me even now as I think of it.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_29-56_0037.wav|I was the only one who remained sitting.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_29-56_0040.wav|I suppose you wonder why she is coming up here.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_29-56_0043.wav|It seemed nearer to him since he had seen and talked with Gregson.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_309-336_0313.wav|Broken-Tooth yelled with fright and pain.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_336-364_0351.wav|It was more like sugar.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_367-392_0370.wav|He saw all men in the business game doing this.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_367-392_0374.wav|But life's worth more than cash, she argued.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_367-392_0387.wav|Bob, growing disgusted, turned back suddenly and attempted to pass Mab.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_393-420_0420.wav|When I came to I was waving my hat and murmuring ecstatically.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_421-448_0423.wav|McVeigh when he returns from a trip to Honolulu.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_421-448_0433.wav|To her the bridge was tambo, which is the native for taboo.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_421-448_0440.wav|Yes, sir, I corrected.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_421-448_0446.wav|He deluged me, overwhelmed me with argument.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_477-504_0480.wav|Tom Spink has a harpoon.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_477-504_0502.wav|Anything unusual or abnormal was sufficient to send a fellow to Molokai.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_57-84_0068.wav|In a flash Philip followed its direction.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_57-84_0070.wav|He would first hunt up Gregson and begin his work there.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_57-84_0082.wav|His face was streaming with blood.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_85-112_0085.wav|A trickle of fresh blood ran over his face.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_85-112_0096.wav|Perhaps she had already met her fate a little deeper in the forest.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Angry/anger_85-112_0105.wav|Only, it is so wonderful, so almost impossible to believe.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_1-28_0008.wav|Gad, your letter came just in time.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_1-28_0009.wav|He turned sharply, and faced Gregson across the table.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_1-28_0017.wav|From that moment his friendship for Belize turns to hatred and jealousy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_1-28_0022.wav|Hardly were our plans made public before we were met by powerful opposition.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_1-28_0023.wav|A combination of Canadian capital quickly organized and petitioned for the same privileges.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_1-28_0024.wav|It was my reports from the north which chiefly induced people to buy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_113-140_0128.wav|This one hope was destroyed as quickly as it was born.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_113-140_0130.wav|She was his now, forever.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_141-168_0141.wav|It seems like a strange pointing of the hand of God.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_141-168_0153.wav|MacDougall tapped his forehead suspiciously with a stubby forefinger.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_141-168_0157.wav|He had worshiped her, as Dante might have worshiped Beatrice.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_141-168_0163.wav|Philip made no effort to follow.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_169_196_0171.wav|And when you come back in a few days, bring Eileen.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_169_196_0188.wav|Two gigantic owls were tearing at the carcass.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_197-224_0204.wav|The wolf-dog thrust his gaunt muzzle toward him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_197-224_0205.wav|From now on we're pals.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_197-224_0217.wav|Oppressive as the heat had been, it was now even more oppressive.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_197-224_0221.wav|I don't know why you're here at all.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_197-224_0224.wav|She nodded, and her eyes grew soft and moist.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_225-252_0226.wav|That came before my A B C's.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_225-252_0239.wav|He cried in such genuine dismay that she broke into hearty laughter.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_29-56_0037.wav|I was the only one who remained sitting.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_29-56_0040.wav|I suppose you wonder why she is coming up here.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_29-56_0043.wav|It seemed nearer to him since he had seen and talked with Gregson.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_57-84_0068.wav|In a flash Philip followed its direction.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_57-84_0070.wav|He would first hunt up Gregson and begin his work there.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_57-84_0082.wav|His face was streaming with blood.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_85-112_0085.wav|A trickle of fresh blood ran over his face.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_85-112_0096.wav|Perhaps she had already met her fate a little deeper in the forest.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/Disgust_85-112_0105.wav|Only, it is so wonderful, so almost impossible to believe.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_253-280_0257.wav|They are coming ashore, whoever they are.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_253-280_0260.wav|Nobody knew his history, they of the Junta least of all.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_253-280_0279.wav|She said with chattering teeth.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_281-308_0281.wav|I do not blame you for anything; remember that.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_281-308_0283.wav|The woman in you is only incidental, accidental, and irrelevant.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_281-308_0308.wav|His infernal chattering worries me even now as I think of it.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_309-336_0313.wav|Broken-Tooth yelled with fright and pain.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_336-364_0351.wav|It was more like sugar.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_367-392_0370.wav|He saw all men in the business game doing this.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_367-392_0374.wav|But life's worth more than cash, she argued.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_367-392_0387.wav|Bob, growing disgusted, turned back suddenly and attempted to pass Mab.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_393-420_0420.wav|When I came to I was waving my hat and murmuring ecstatically.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_421-448_0423.wav|McVeigh when he returns from a trip to Honolulu.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_421-448_0427.wav|Enters now the psychology of the situation.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_421-448_0433.wav|To her the bridge was tambo, which is the native for taboo.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_421-448_0440.wav|Yes, sir, I corrected.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_421-448_0446.wav|He deluged me, overwhelmed me with argument.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_449-476_0461.wav|Ah, we were very close together in that moment.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_449-476_0475.wav|His outstretched arm dropped to his side, and he paused.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_477-504_0480.wav|Tom Spink has a harpoon.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Disgusted/disgust_477-504_0502.wav|Anything unusual or abnormal was sufficient to send a fellow to Molokai.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_1-28_0008.wav|Gad, your letter came just in time.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_1-28_0017.wav|From that moment his friendship for Belize turns to hatred and jealousy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_1-28_0022.wav|Hardly were our plans made public before we were met by powerful opposition.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_1-28_0023.wav|A combination of Canadian capital quickly organized and petitioned for the same privileges.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_1-28_0024.wav|It was my reports from the north which chiefly induced people to buy.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_113-140_0128.wav|This one hope was destroyed as quickly as it was born.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_113-140_0130.wav|She was his now, forever.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_141-168_0141.wav|It seems like a strange pointing of the hand of God.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_141-168_0153.wav|MacDougall tapped his forehead suspiciously with a stubby forefinger.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_141-168_0157.wav|He had worshiped her, as Dante might have worshiped Beatrice.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_141-168_0163.wav|Philip made no effort to follow.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_169-196_0171.wav|And when you come back in a few days, bring Eileen.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_169-196_0188.wav|Two gigantic owls were tearing at the carcass.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_197_224_0204.wav|The wolf-dog thrust his gaunt muzzle toward him.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_197_224_0205.wav|From now on we're pals.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_197_224_0217.wav|Oppressive as the heat had been, it was now even more oppressive.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_197_224_0221.wav|I don't know why you're here at all.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_197_224_0224.wav|She nodded, and her eyes grew soft and moist.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_225_252_0226.wav|That came before my A B C's.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_225_252_0239.wav|He cried in such genuine dismay that she broke into hearty laughter.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_253-280_0257.wav|They are coming ashore, whoever they are.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_253-280_0260.wav|Nobody knew his history, they of the Junta least of all.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_253-280_0279.wav|She said with chattering teeth.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_281-308_0281.wav|I do not blame you for anything; remember that.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_281-308_0283.wav|The woman in you is only incidental, accidental, and irrelevant.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_281-308_0308.wav|His infernal chattering worries me even now as I think of it.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_29-56_0037.wav|I was the only one who remained sitting.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_29-56_0040.wav|I suppose you wonder why she is coming up here.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_29-56_0043.wav|It seemed nearer to him since he had seen and talked with Gregson.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_309-336_0313.wav|Broken-Tooth yelled with fright and pain.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_336-364_0351.wav|It was more like sugar.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_367-392_0370.wav|He saw all men in the business game doing this.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_367-392_0374.wav|But life's worth more than cash, she argued.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_367-392_0387.wav|Bob, growing disgusted, turned back suddenly and attempted to pass Mab.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_393-420_0420.wav|When I came to I was waving my hat and murmuring ecstatically.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_421-448_0423.wav|McVeigh when he returns from a trip to Honolulu.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_421-448_0427.wav|Enters now the psychology of the situation.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_421-448_0433.wav|To her the bridge was tambo, which is the native for taboo.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_421-448_0440.wav|Yes, sir, I corrected.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_421-448_0446.wav|He deluged me, overwhelmed me with argument.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_449-476_0461.wav|Ah, we were very close together in that moment.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_449-476_0475.wav|His outstretched arm dropped to his side, and he paused.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_477-504_0480.wav|Tom Spink has a harpoon.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_477-504_0502.wav|Anything unusual or abnormal was sufficient to send a fellow to Molokai.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_57-84_0068.wav|In a flash Philip followed its direction.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_57-84_0070.wav|He would first hunt up Gregson and begin his work there.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_57-84_0082.wav|His face was streaming with blood.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_85-112_0085.wav|A trickle of fresh blood ran over his face.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_85-112_0096.wav|Perhaps she had already met her fate a little deeper in the forest.
+/content/drive/MyDrive/emotion_tts/data/EmoV-DB_22050/sam/Neutral/neutral_85-112_0105.wav|Only, it is so wonderful, so almost impossible to believe.

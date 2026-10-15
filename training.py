@@ -303,7 +303,13 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus, 
                 validate(model, criterion, valset, iteration, hyper_params['batch_size'], n_gpus, collate_fn,
                          logger, hyper_params['distributed_run'], rank)
                 if rank == 0:
-                    checkpoint_path = os.path.join(output_directory, "checkpoint_{}".format(iteration))
+                    #checkpoint_path = os.path.join(output_directory, "checkpoint_{}".format(iteration))
+                    checkpoint_path = os.path.join(output_directory, "checkpoint_latest")
                     save_checkpoint(model, optimizer, learning_rate, iteration, checkpoint_path)
 
             iteration += 1
+
+    # Save final model after final epoch
+    checkpoint_path = os.path.join(output_directory, "checkpoint_latest")
+    save_checkpoint(model, optimizer, learning_rate, iteration, checkpoint_path)
+    print(f"Final checkpoint saved at iteration {iteration}")

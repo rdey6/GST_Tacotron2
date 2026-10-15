@@ -13,12 +13,11 @@ import argparse
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--pretrained_path", type=str, default=None)
-parser.add_argument(
-    "--checkpoint_path",
-    type=str,
-    default=None,
-    help="Path to checkpoint for resuming training"
-)
+parser.add_argument("--checkpoint_path", type=str, default=None)
+parser.add_argument("--output_directory", type=str,
+                    default="/outputs")
+parser.add_argument("--log_directory", type=str,
+                    default="/logs")
 args = parser.parse_args()
 
 if __name__ == '__main__':
@@ -28,10 +27,8 @@ if __name__ == '__main__':
     training_files = 'filelists/emovdb_train_filelist.txt'
     validation_files = 'filelists/emovdb_val_filelist.txt'
 
-    output_directory = '/content/drive/MyDrive/emotion_tts/outputs'
-    # log_directory = '/homedtic/apeiro/GST_Tacotron2_pitch_prosody_dense/loggs'
-    log_directory = '/content/drive/MyDrive/emotion_tts/logs/'
-    # checkpoint_path = '/homedtic/apeiro/GST_Tacotron2_only_pitch_contour_dense_SoftMax/outputs/checkpoint_62000'
+    output_directory = args.output_directory
+    log_directory = args.log_directory
     checkpoint_path = args.checkpoint_path
     warm_start = False
     n_gpus = 1 

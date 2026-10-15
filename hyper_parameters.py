@@ -52,14 +52,14 @@ tacotron_params = {'filter_length': 1024,  # audio parameters:
                    'ref_enc_out_channels': [8, 16, 16],
                    # optimization parameters:
                    'use_saved_learning_rate': True,
-                   'batch_size': 2,  # 64 should be larger than the number of GPUs. Integer multiple of the num. of GPUs
+                   'batch_size': 16,  # 64 should be larger than the number of GPUs. Integer multiple of the num. of GPUs
                    'learning_rate': 1e-4,
                    'weight_decay': 1e-6,
                    'grad_clip_thresh': 1.0,
                    'mask_padding': False,
                    # experiment parameters:
-                   'epochs': 2,  # 160, 500
-                   'iters_per_checkpoint': 50,  # 1000. How many iterations before validating
+                   'epochs': 10,  # 160, 500
+                   'iters_per_checkpoint': 255,  # 1000. How many iterations before validating
                    'seed': 1234,
                    'dynamic_loss_scaling': True,  # CHECK IT OUT!
                    'distributed_run': False,

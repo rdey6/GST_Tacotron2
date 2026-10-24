@@ -58,7 +58,7 @@ tacotron_params = {'filter_length': 1024,  # audio parameters:
                    'grad_clip_thresh': 1.0,
                    'mask_padding': False,
                    # experiment parameters:
-                   'epochs': 10,  # 160, 500
+                   'epochs': 150,  # 160, 500
                    'iters_per_checkpoint': 255,  # 1000. How many iterations before validating
                    'seed': 1234,
                    'dynamic_loss_scaling': True,  # CHECK IT OUT!

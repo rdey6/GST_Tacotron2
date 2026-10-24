@@ -286,10 +286,11 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus, 
             epoch_offset = max(0, int(iteration / len(train_loader)))
 
     # Set this to make all modules and regularization aware this is the training stage:
-    model.train()
+    #model.train()
 
     # MAIN LOOP
     for epoch in range(epoch_offset, hyper_params['epochs']):
+        model.train()
         print("Epoch: {}".format(epoch))
         for i, batch in enumerate(train_loader):
             start = time.perf_counter()
@@ -329,15 +330,21 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus, 
                 logger.log_training(reduced_loss, grad_norm, learning_rate, duration, iteration)
 
             # Every iters_per_checkpoint steps there is a validation of the model and its updated parameters
-            if not overflow and (iteration % hyper_params['iters_per_checkpoint'] == 0):
-                validate(model, criterion, valset, iteration, hyper_params['batch_size'], n_gpus, collate_fn,
-                         logger, hyper_params['distributed_run'], rank)
-                if rank == 0:
-                    #checkpoint_path = os.path.join(output_directory, "checkpoint_{}".format(iteration))
-                    checkpoint_path = os.path.join(output_directory, "checkpoint_latest")
-                    save_checkpoint(model, optimizer, learning_rate, iteration, checkpoint_path)
+            #if not overflow and (iteration % hyper_params['iters_per_checkpoint'] == 0):
+            #    validate(model, criterion, valset, iteration, hyper_params['batch_size'], n_gpus, collate_fn,
+            #             logger, hyper_params['distributed_run'], rank)
+            #    if rank == 0:
+            #        #checkpoint_path = os.path.join(output_directory, "checkpoint_{}".format(iteration))
+            #        checkpoint_path = os.path.join(output_directory, "checkpoint_latest")
+            #        save_checkpoint(model, optimizer, learning_rate, iteration, checkpoint_path)
 
             iteration += 1
+
+        validate(model, criterion, valset, iteration - 1, hyper_params['batch_size'], n_gpus, collate_fn,
+                 logger, hyper_params['distributed_run'], rank)
+        if rank == 0:
+            checkpoint_path = os.path.join(output_directory, "checkpoint_latest")
+            save_checkpoint(model, optimizer, learning_rate, iteration - 1, checkpoint_path)
 
     # Save final model after final epoch
     checkpoint_path = os.path.join(output_directory, "checkpoint_latest")

@@ -257,10 +257,24 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus, 
 
     model = load_model(hyper_params)
     if pretrained_path is not None and checkpoint_path is None:
-      model = initialize_from_nvidia(model, pretrained_path)
+      #model = initialize_from_nvidia(model, pretrained_path)
+       checkpoint = torch.load(pretrained_path, weights_only=False)
+       model.load_state_dict(checkpoint["model_state_dict"])
+    # Freeze embedding
+    for param in model.embedding.parameters():
+        param.requires_grad = False
+
+    # Freeze encoder
+    for param in model.encoder.parameters():
+        param.requires_grad = False
+
     model = model.cuda()
+    
     learning_rate = hyper_params['learning_rate']
-    optimizer = torch.optim.Adam(model.parameters(), lr=learning_rate, weight_decay=hyper_params['weight_decay'])
+    #optimizer = torch.optim.Adam(model.parameters(), lr=learning_rate, weight_decay=hyper_params['weight_decay'])
+    optimizer = torch.optim.Adam(filter(lambda p: p.requires_grad, model.parameters()),
+                                 lr=learning_rate,
+                                 weight_decay=hyper_params['weight_decay'])
 
     if hyper_params['fp16_run']:
         optimizer = FP16_Optimizer(optimizer, dynamic_loss_scale=hyper_params['dynamic_loss_scaling'])

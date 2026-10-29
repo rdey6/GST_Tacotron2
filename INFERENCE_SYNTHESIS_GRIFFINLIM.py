@@ -55,7 +55,10 @@ gst_head_scores = np.array([0.6, 0.23, 0.17])
 gst_scores = torch.from_numpy(gst_head_scores)
 gst_scores = torch.autograd.Variable(gst_scores).cuda().float()
 
-sequence = np.array(text_to_sequence(test_text, ['english_cleaners']))[None, :]
+#sequence = np.array(text_to_sequence(test_text, ['english_cleaners']))[None, :]
+sequence = text_to_sequence(test_text, ['english_cleaners'])
+sequence = [token for token in sequence if token != 1]  # Remove '~'
+sequence = np.array(sequence)[None, :]
 sequence = torch.autograd.Variable(torch.from_numpy(sequence)).cuda().long()
 
 t = time.time()

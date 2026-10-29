@@ -38,7 +38,10 @@ class DataPreparation(torch.utils.data.Dataset):
         mel_spec = self.stft.mel_spectrogram(wav_torch_norm)
         mel_spec = torch.squeeze(mel_spec, 0)
         # text to torch integer tensor sequence
-        sentence_sequence = torch.IntTensor(text_to_sequence(sentence, self.audio_text_parameters['text_cleaners']))
+        #sentence_sequence = torch.IntTensor(text_to_sequence(sentence, self.audio_text_parameters['text_cleaners']))
+        sequence = text_to_sequence(sentence, self.audio_text_parameters['text_cleaners'])
+        sequence = [token for token in sequence if token != 1]  # Remove '~'
+        sentence_sequence = torch.IntTensor(sequence)
 
         return sentence_sequence, mel_spec
 

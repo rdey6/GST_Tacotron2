@@ -142,3 +142,29 @@ class tacotron_2(nn.Module):
 
         return outputs, gst_scores
 
+    @torch.no_grad()
+    def inference_without_gst(self, inputs):
+        inputs = self.parse_input(inputs)
+
+        # Text embedding
+        embedded_inputs = self.embedding(inputs).transpose(1, 2)
+
+        # Text encoder
+        encoder_outputs = self.encoder.inference(embedded_inputs)
+
+        # Decoder without GST conditioning
+        mel_outputs, gate_outputs, alignments = self.decoder.inference(
+            encoder_outputs
+        )
+
+        # Postnet
+        mel_outputs_postnet = self.postnet(mel_outputs)
+        mel_outputs_postnet = mel_outputs + mel_outputs_postnet
+
+        return self.parse_output([
+            mel_outputs,
+            mel_outputs_postnet,
+            gate_outputs,
+            alignments
+        ])
+
